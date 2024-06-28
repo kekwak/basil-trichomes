@@ -1,0 +1,13 @@
+names:
+- Empty
+- Full
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: basil-kktu5
+  url: https://universe.roboflow.com/mr-pony/basil-kktu5/dataset/3
+  version: 3
+  workspace: mr-pony
+test: basil-3/valid/images
+train: basil-3/train/images
+val: basil-3/valid/images

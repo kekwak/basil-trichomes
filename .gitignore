@@ -1,0 +1,5 @@
+**.env
+**.venv
+
+wandb/
+yolov*.pt
