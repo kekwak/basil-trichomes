@@ -5,9 +5,9 @@ nc: 2
 roboflow:
   license: CC BY 4.0
   project: basil-kktu5
-  url: https://universe.roboflow.com/mr-pony/basil-kktu5/dataset/3
-  version: 3
+  url: https://universe.roboflow.com/mr-pony/basil-kktu5/dataset/4
+  version: 4
   workspace: mr-pony
-test: basil-3/valid/images
-train: basil-3/train/images
-val: basil-3/valid/images
+test: ../test/images
+train: basil-4/train/images
+val: basil-4/valid/images
