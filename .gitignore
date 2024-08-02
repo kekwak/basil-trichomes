@@ -5,3 +5,4 @@ wandb/
 yolov*.pt
 
 best_hyperparameters*
+YOLO_NII_EXP*
