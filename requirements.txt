@@ -8,6 +8,7 @@ contourpy==1.2.1
 cycler==0.12.1
 debugpy==1.8.2
 decorator==5.1.1
+dill==0.3.8
 docker-pycreds==0.4.0
 executing==2.0.1
 filelock==3.15.4
@@ -84,7 +85,7 @@ traitlets==5.14.3
 triton==2.3.1
 typing_extensions==4.12.2
 tzdata==2024.1
-ultralytics==8.2.45
+ultralytics==8.2.71
 ultralytics-thop==2.0.0
 urllib3==2.2.2
 wandb==0.17.3
