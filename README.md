@@ -6,4 +6,4 @@ source ".venv/bin/activate"
 pip install -r requirements.txt
 ```
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/cb7f9d66-0314-4db4-8475-0b631259dc77)
